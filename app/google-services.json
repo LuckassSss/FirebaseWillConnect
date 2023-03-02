@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201993271056",
+    "project_id": "fir-willconnect",
+    "storage_bucket": "fir-willconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201993271056:android:8ac2b89d667591af361795",
+        "android_client_info": {
+          "package_name": "com.example.firebasewillconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201993271056-6ist7hqvgmfge80vgf8n83m1lodbmpf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquMhwYI9tKppvoyYyKNHkM8Lhd4r7tC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201993271056-6ist7hqvgmfge80vgf8n83m1lodbmpf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
